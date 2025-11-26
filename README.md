@@ -1,6 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+⚠️ Technical Note: High-Quality Generation Issue
+Please note that the high-quality image generation feature is currently undergoing final optimization. While the system is fully functional and generates valid outputs, images produced using the highest settings is still not working.
 
 # Run and deploy your AI Studio app
 
