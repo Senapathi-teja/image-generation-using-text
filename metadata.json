@@ -1,0 +1,5 @@
+{
+  "name": "Talrn AI Gen",
+  "description": "A professional AI text-to-image generation application utilizing Google Gemini API. Features prompt engineering, history tracking, and high-quality image export capabilities.",
+  "requestFramePermissions": []
+}
